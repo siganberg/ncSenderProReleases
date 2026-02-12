@@ -11,7 +11,6 @@ Download the latest release for your platform from the [Releases](https://github
 | Platform | Architecture | Format |
 |----------|--------------|--------|
 | Windows | x64 | `.exe`, `.msi` |
-| macOS | Intel (x64) | `.dmg` |
 | macOS | Apple Silicon (arm64) | `.dmg` |
 | Linux | x64 | `.AppImage`, `.deb` |
 | Linux | ARM64 (Raspberry Pi) | `.AppImage`, `.deb` |
@@ -22,7 +21,7 @@ Download the latest release for your platform from the [Releases](https://github
 Download and run the `.exe` installer or `.msi` package.
 
 ### macOS
-1. Download the `.dmg` file for your Mac (Intel or Apple Silicon)
+1. Download the `.dmg` file for your Mac
 2. Open the DMG and drag ncSender Pro to Applications
 3. Since the app is not code-signed by Apple, you'll need to clear the quarantine attribute before running:
    ```bash
