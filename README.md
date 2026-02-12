@@ -83,4 +83,4 @@ ncSender Pro is the commercial version of ncSender with additional features for 
 
 ---
 
-Copyright (c) 2025 Francis Creation. All rights reserved.
+Copyright (c) 2026 Francis Creation. All rights reserved.
