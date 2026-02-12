@@ -5,7 +5,7 @@ Official release binaries for **ncSender Pro** - a professional CNC streaming so
 ## Features
 
 ### Multi-Workspace
-Run multiple workspaces (SLOT1–SLOT9) in a single job, each with its own work offset and toolpath — ideal for batch production and tiling setups.
+Run multiple workspaces (G54–G59) in a single job, each with its own work offset and toolpath — ideal for batch production and tiling setups.
 
 ![Multi-Workspace](assets/MultiWorkspace.png)
 
