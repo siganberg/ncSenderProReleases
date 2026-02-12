@@ -2,6 +2,28 @@
 
 Official release binaries for **ncSender Pro** - a professional CNC streaming software for GRBL-based machines.
 
+## Features
+
+### Multi-Workspace & Automatic Tool Change (ATC)
+Manage up to 9 workspaces (SLOT1–SLOT9) with full ATC support including TLS, manual tool change, and probe cycles — all from a single job view.
+
+![Multi-Workspace & ATC](assets/MultiWorkspace.png)
+
+### 4th Axis Support
+Full 4th axis (A-axis) control with 3D visualization for rotary and indexing operations.
+
+![4th Axis Support](assets/4thAxis.png)
+
+### Laser Mode
+Dedicated laser mode with real-time power visualization, feedrate and laser power overrides, and LaserHead view for precise beam positioning.
+
+![Laser Mode](assets/Laser.png)
+
+### Virtual Keyboard & Tool Library
+Built-in virtual keyboard for touchscreen setups and a tool library to manage your tools with type, diameter, and TLS offset tracking.
+
+![Virtual Keyboard & Tool Library](assets/VirtualKeyboard.png)
+
 ## Download
 
 Download the latest release for your platform from the [Releases](https://github.com/siganberg/ncSenderProReleases/releases) page.
