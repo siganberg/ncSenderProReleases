@@ -23,8 +23,12 @@ Download and run the `.exe` installer or `.msi` package.
 
 ### macOS
 1. Download the `.dmg` file for your Mac (Intel or Apple Silicon)
-2. Open the DMG and drag ncSender to Applications
-3. On first launch, right-click and select "Open" to bypass Gatekeeper
+2. Open the DMG and drag ncSender Pro to Applications
+3. Since the app is not code-signed by Apple, you'll need to clear the quarantine attribute before running:
+   ```bash
+   xattr -c /Applications/ncSender\ Pro.app
+   ```
+   Open Terminal (Applications → Utilities → Terminal), paste the command above, and press Enter. After that, you can open ncSender Pro normally.
 
 ### Linux
 **AppImage:**
