@@ -19,10 +19,10 @@ Dedicated laser mode with real-time power visualization, feedrate and laser powe
 
 ![Laser Mode](assets/Laser.png)
 
-### Virtual Keyboard & Tool Library
-Built-in virtual keyboard for touchscreen setups and a tool library to manage your tools with type, diameter, and TLS offset tracking.
+### Virtual Keyboard
+Built-in virtual keyboard for kiosk and touchscreen setups where no physical keyboard is attached, allowing input on any text field.
 
-![Virtual Keyboard & Tool Library](assets/VirtualKeyboard.png)
+![Virtual Keyboard](assets/VirtualKeyboard.png)
 
 ## Download
 
