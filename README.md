@@ -68,7 +68,7 @@ Download the Linux ARM64 `.AppImage` or `.deb` package. Requires 64-bit Raspberr
 
 ## License
 
-ncSender Pro requires a valid license to run. Purchase a license at [franciscreation.com](https://franciscreation.com).
+ncSender Pro requires an Installation ID to run. Purchase one at [franciscreation.com/ncsenderpro](https://www.franciscreation.com/ncsenderpro).
 
 After purchase, you'll receive an Installation ID via email. Enter this ID in the app to activate your license.
 
