@@ -4,10 +4,10 @@ Official release binaries for **ncSender Pro** - a professional CNC streaming so
 
 ## Features
 
-### Multi-Workspace & Automatic Tool Change (ATC)
-Manage up to 9 workspaces (SLOT1–SLOT9) with full ATC support including TLS, manual tool change, and probe cycles — all from a single job view.
+### Multi-Workspace
+Run multiple workspaces (SLOT1–SLOT9) in a single job, each with its own work offset and toolpath — ideal for batch production and tiling setups.
 
-![Multi-Workspace & ATC](assets/MultiWorkspace.png)
+![Multi-Workspace](assets/MultiWorkspace.png)
 
 ### 4th Axis Support
 Full 4th axis (A-axis) control with 3D visualization for rotary and indexing operations.
